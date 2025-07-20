@@ -1,4 +1,5 @@
 require('dotenv').config();
+console.log('📌 Loaded Mongo URI:', process.env.mongooseURL);
 const express = require('express');
 const mongoose = require('mongoose');
 const petRouter = require('./Routes/PetRoute')
