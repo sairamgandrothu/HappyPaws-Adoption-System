@@ -27,7 +27,7 @@ Other Tools: Mongoose, Nodemon, dotenv
 
 🛠 Installation Steps
 1. Clone the repository:
-git clone https://github.com/your-username/HappyPaws-Adoption-System.git
+git clone https://github.com/sairamgandrothu/HappyPaws-Adoption-System.git
 cd HappyPaws-Adoption-System
 2. Install backend dependencies:
 cd server
